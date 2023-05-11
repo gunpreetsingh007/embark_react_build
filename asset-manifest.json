@@ -1,13 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.f908aa54.css",
-    "main.js": "/static/js/main.0b2ad336.js",
+    "main.js": "/static/js/main.f95746eb.js",
     "static/media/giftSetImg.jpg": "/static/media/giftSetImg.1d823f98297882d7e1f5.jpg",
-    "static/media/productCountDesktop.jpg": "/static/media/productCountDesktop.284042007b5dac34d35b.jpg",
-    "static/media/productCountTab.jpg": "/static/media/productCountTab.52870fbd04cfe8733d86.jpg",
     "static/media/GiftsetTab.jpg": "/static/media/GiftsetTab.d4cdb6fdb869224549c3.jpg",
     "static/media/jLTab.jpg": "/static/media/jLTab.07d6e7c87c0b8310580b.jpg",
-    "static/media/productCountMobile.jpg": "/static/media/productCountMobile.24bfe8fe8f81c1654e33.jpg",
     "static/media/GiftsetDesktop.jpg": "/static/media/GiftsetDesktop.f2b36e927ac653c14562.jpg",
     "static/media/perfumeDesktop.jpg": "/static/media/perfumeDesktop.53dcce4a198b92d02cbc.jpg",
     "static/media/BathBodyTab.jpg": "/static/media/BathBodyTab.e9a24857f5ac4e1691c1.jpg",
@@ -21,6 +18,8 @@
     "static/media/perfumeStory3.png": "/static/media/perfumeStory3.3f914ee4216522e85d82.png",
     "static/media/banner2Desktop.jpg": "/static/media/banner2Desktop.62f45fbe194c1e658811.jpg",
     "static/media/banner1Desktop.jpg": "/static/media/banner1Desktop.74e37c578b1983184d39.jpg",
+    "static/media/productCountTab.jpg": "/static/media/productCountTab.5c38127154e69c3cd46f.jpg",
+    "static/media/productCountDesktop.jpg": "/static/media/productCountDesktop.4322420ca3d53afdb3cd.jpg",
     "static/media/giftSet.jpg": "/static/media/giftSet.4ded572b4c94e1e0d376.jpg",
     "static/media/banner3Desktop.jpg": "/static/media/banner3Desktop.915f30d3cb140e115c52.jpg",
     "static/media/banner2Tab.jpg": "/static/media/banner2Tab.11968baf9654c2fadd31.jpg",
@@ -41,6 +40,7 @@
     "static/media/banner1Mobile.jpg": "/static/media/banner1Mobile.5103a717173835e55bef.jpg",
     "static/media/1.svg": "/static/media/1.d437b323677d72c91e292b231255b1de.svg",
     "static/media/Gill Sans Bold.otf": "/static/media/Gill Sans Bold.6110e26abc5eece5ce42.otf",
+    "static/media/productCountMobile.jpg": "/static/media/productCountMobile.0136a742d3309891264c.jpg",
     "static/media/nykaa.png": "/static/media/nykaa.df96c4f4e8950e70ba20.png",
     "static/media/oudDesktop.jpg": "/static/media/oudDesktop.4cd0aee9aac0abbf2ab9.jpg",
     "static/media/brandLogo.png": "/static/media/brandLogo.80c1a4fc979c253a8533.png",
@@ -91,10 +91,10 @@
     "static/media/edit.svg": "/static/media/edit.1596bc89d943950c353c91d2854b5b0d.svg",
     "static/media/caret.svg": "/static/media/caret.53f08b95a07c3a9bf0bb2f024d1a9921.svg",
     "main.f908aa54.css.map": "/static/css/main.f908aa54.css.map",
-    "main.0b2ad336.js.map": "/static/js/main.0b2ad336.js.map"
+    "main.f95746eb.js.map": "/static/js/main.f95746eb.js.map"
   },
   "entrypoints": [
     "static/css/main.f908aa54.css",
-    "static/js/main.0b2ad336.js"
+    "static/js/main.f95746eb.js"
   ]
 }
